@@ -1,1 +1,1 @@
-OS: alpine-virt-3.24.1-x86
+alpine-virt-3.24.1-x86_64
